@@ -1,6 +1,6 @@
 # JuegoLunar
 
-**Imagenes**\n
+**Imagenes**__
 Coloque todas las imagenes que me dió el cliente, aunque tuve que buscar las imagenes del menu que el cliente no me las pasó. Coloque la nave en el centro, los botones en los laterales y los marcadores arriba.
 
 **Fondo**
